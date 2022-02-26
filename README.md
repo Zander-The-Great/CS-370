@@ -20,8 +20,8 @@ What do computer scientists do and why does it matter?**
 In short a Computer Scientists help to solve fundamental problems in computing. Creating and inventing new technology and computing/languages from the ground up. This will revolutionize how we as a society can handle day to day work. This will allow us to do our jobs better, automate simple processes, and optimize what ever it may be that we are doing. This all has a great effect on us.
 
 
-**
-How do I approach a problem as a computer scientist?
+
+**How do I approach a problem as a computer scientist?
 What are my ethical responsibilities to the end user and the organization?**
 
 How I typically approach a problem as a computer scientist is to take a look at the big picture of what we want to accomplish, followed by structuring it together. I like to start with a solid foundation and then build off of it, and take the steps in pieces. When approaching our responsibilities for ethical concerns we must do so in a way that doesnt tend to have biases within the code or training. We must consider the impacts of society small and large because the application of our works directly effects us all.
